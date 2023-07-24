@@ -23,7 +23,7 @@
     animation: fade ease-in 2s forwards;
 }
 
-@keyframes fade{
+@keyframes fade {
     0% {
         opacity: 0;
     }
