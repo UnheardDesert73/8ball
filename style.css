@@ -31,3 +31,11 @@
         opacity: 1;
     }
 }
+
+.mini-container {
+    max-width: 50%;
+}
+
+.ball {
+    width: 70%;
+}
